@@ -42,7 +42,7 @@
         <properties>
           <property name="Category" value="AnotherCategory" />
           <property name="Category" value="MockCategory" />
-            
+        </properties>    
       </test-case>
       <test-case id="1007" name="MockTest4" fullname="NUnit.Tests.Assemblies.MockTestFixture.MockTest4" result="Skipped" label="Ignored" time="0.000" asserts="0">
         <properties>
