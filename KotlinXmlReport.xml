@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netledger.erp.scm.wms.wat.dao.MultiTableModelDaoTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2018-08-24T06:07:54" hostname="cbb4235351wuqspqs" time="0.251">
+  <properties />
+  <testcase name="applyChanges() doesn't crash when no additional DAOs are added" classname="com.netledger.erp.scm.wms.wat.dao.MultiTableModelDaoTest" time="0.014" />
+  <testcase name="validate() is called on all added DAOs" classname="com.netledger.erp.scm.wms.wat.dao.MultiTableModelDaoTest" time="0.008" />
+  <testcase name="applyChanges() is called on all added DAOs" classname="com.netledger.erp.scm.wms.wat.dao.MultiTableModelDaoTest" time="0.003" />
+  <testcase name="validate() fails when no DAO handles some set field" classname="com.netledger.erp.scm.wms.wat.dao.MultiTableModelDaoTest" time="0.003" />
+  <testcase name="cannot pass in a model which doesn't implement SparseModel" classname="com.netledger.erp.scm.wms.wat.dao.MultiTableModelDaoTest" time="0.063" />
+  <testcase name="validate() checks that some added DAO handles each set field" classname="com.netledger.erp.scm.wms.wat.dao.MultiTableModelDaoTest" time="0.015" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
